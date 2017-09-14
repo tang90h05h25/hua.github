@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>scss</title>
+    <link rel="stylesheet" href="sass.css">
+</head>
+<body>
+<div>
+    <h2>你是谁？？？哪个</h2>
+</div>
+<div class="demo">
+    <h1>align-text</h1>
+    <p>无心能活</p>
+</div>
+</body>
+</html>
