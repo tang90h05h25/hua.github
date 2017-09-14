@@ -1,3 +1,0 @@
---webstorm sass--
---no-cache --update --sourcemap --watch $FileName$:$FileNameWithoutExtension$.css
-$FileNameWithoutExtension$.css:$FileNameWithoutExtension$.css.map
